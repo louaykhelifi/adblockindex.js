@@ -1,0 +1,1 @@
+# adblockindex.js
